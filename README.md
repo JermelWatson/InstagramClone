@@ -29,10 +29,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/JermelWatson/InstagramClone/blob/master/InstaClone_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-**Instagram clone part 2**
-
-<img src='https://github.com/JermelWatson/InstagramClone/blob/master/FinalDraftInstaClone_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
